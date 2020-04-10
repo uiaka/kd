@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1024543241815",
+    "firebase_url": "https://mapas-f2fbe.firebaseio.com",
+    "project_id": "mapas-f2fbe",
+    "storage_bucket": "mapas-f2fbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024543241815:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024543241815-4j60m1gahqd1j0ugpsjbr4dcmtr4doqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.ionic.starter",
+            "certificate_hash": "f2e77023f708e494c891678ac40c5a3b8e67729c"
+          }
+        },
+        {
+          "client_id": "1024543241815-nemfho8o60v8qvhm9bfgmf3la7v6etfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc_UJsOO_x6DcdvLjxvFTxHp31geN5GfU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024543241815-nemfho8o60v8qvhm9bfgmf3la7v6etfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
